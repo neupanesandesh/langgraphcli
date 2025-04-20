@@ -29,7 +29,7 @@ This is where the graph resides in code:
 
 ![image](https://github.com/user-attachments/assets/eb4080aa-1c98-48e6-8a04-d100393d9f40)
 
-when running `langgrpah dev` this grpah is triggered and the flow will start from here.
+when running `langgrpah dev` this graph is triggered and the flow will start from here.
 
 Firstly it will run **create_graph()** function
 
