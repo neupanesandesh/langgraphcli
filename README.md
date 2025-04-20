@@ -46,4 +46,4 @@ Here it accepts query from user
 then,
 The user query, received via state.get("message"), is passed from node to node, following the path defined by the edges. At each node, the query is processed with the respective tools or LLM prompt, and a response is generated. The updated message is then passed to the next node in the pipeline, continuing until the process is complete.
 
-This is a basic flow of langgraph, an langgraph interrupt example for confirmation is also provided in the lang.py file commented below the current flow.
+This is a basic flow of langgraph.
