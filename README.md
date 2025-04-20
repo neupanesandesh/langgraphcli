@@ -27,7 +27,8 @@ The `langgraph dev` command will run the langgraph.json from where dependencies 
 
 This is where the graph resides in code:
 
-![image](https://github.com/user-attachments/assets/eb4080aa-1c98-48e6-8a04-d100393d9f40)
+![image](https://github.com/user-attachments/assets/6da0e04e-9bc6-4193-a0ba-a9eb56b0be96)
+
 
 when running `langgrpah dev` this graph is triggered and the flow will start from here.
 
@@ -35,7 +36,8 @@ Firstly it will run **create_graph()** function
 
 A node represents a destination, and an edge is the path that connects it to another node, defined by a start and end point.
 
-![image](https://github.com/user-attachments/assets/63602eca-b5ca-412d-a928-559ce086352a)
+![image](https://github.com/user-attachments/assets/79972740-ddbf-4007-b9ae-21e094b46ac5)
+
 
 # HERE IS THE FLOW
 
