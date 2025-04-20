@@ -1,0 +1,6 @@
+{
+  "dependencies": ["./requirments.txt"],
+  "graphs": {
+    "agent": "./lang.py:graph"
+  }
+}
