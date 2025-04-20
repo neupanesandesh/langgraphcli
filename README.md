@@ -13,6 +13,8 @@ Step 2: Run langgrpah studio command on terminal.
 # HOW IT WORKS
 
 The program goes like this: User asks which model is fit for his usecase, like (what do i use for image generation or audio transcribe?) and the langgraph will match the tools , explain the reason and give combined response at the end all through graph.
+![image](https://github.com/user-attachments/assets/f9580af0-8e6f-428f-99d3-e9fd7fe4766c) 
+
 
 It has a langgraph.json file to run on langgraph studio that looks like this:
 
